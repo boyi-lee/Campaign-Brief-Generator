@@ -41,10 +41,10 @@
 campaign-brief-generator/
 │
 ├── README.md                        ← 本說明書
-├── SKILL.md                         ← 主程式（薄，< 800 字元，只管流程）
-├── build.sh                         ← 合併腳本（給 ChatGPT / Gemini 用）
+├── SKILL.md                         ← 主程式
+├── build.sh                         ← 合併腳本（給AI使用）
 │
-├── references/                      ← 知識庫（胖，AI 依需要載入）
+├── references/                      ← 知識庫
 │   ├── 01_marketing-logic.md        ← 漏斗邏輯 × 活動階段規則
 │   ├── 02_creative-psychology.md    ← 心理機制庫
 │   ├── 03_copywriting-rules.md      ← 文案框架庫
